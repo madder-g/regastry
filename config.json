@@ -1,0 +1,4 @@
+{
+  "dl": "https://raw.githubusercontent.com/madder-g/regastry/main/crates/{crate}-{version}.crate",
+  "api": "https://api.github.com"
+}
